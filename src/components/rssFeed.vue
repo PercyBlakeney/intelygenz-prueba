@@ -73,7 +73,7 @@
             };
         },
         created: function() {
-            for (var i = 0; i < 11; i++) {
+            for (var i = 0; i < 11; i++) { // bucle para generar listado de peliculas
                 var letter = null
                 var characters = 'ADEIJNSTUWYZadehijnstuyz';
                 letter = characters.charAt(i);
@@ -96,10 +96,10 @@
             
         },
         methods: {
-            findMovie: function () {
+            findMovie: function () { //filtra la lista renderizada con el string en la variable "searchMovie"
                 this.moviesList = this.rssData.filter( data => data.Title.includes(this.searchMovie))
             },
-            updateInfoData: function(item) {
+            updateInfoData: function(item) { // Se actualiza de manera dinámica los campos del modal para reutilizar este
                 this.title = item.Title
                 this.plot = item.Plot
                 this.score = item.Metascore
