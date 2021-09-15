@@ -53,3 +53,7 @@ El origen de datos ha sido una api publica de peliculas que no requiriese CORS n
 Se ha utilizado el patrón de diseño: SFC, con intención de Hacer un SPA utilizando la reactividad que aporta el Framework  **Vue.js**, El motivo de uso de este patrón de diseño es la facilidad de de encapsular en un único archivo el template, la lógica y el estilo necesarios para este componente.
 
 Si la aplicación se escalase optaría por un patrón de Diseño MVVM y utilizar el store de VUEX.
+
+## Testing
+
+En un principio iba a utilizar Jest para hacer algún test, sin embargo la prueba es demasiado sencilla para aplicar un test unitario.
