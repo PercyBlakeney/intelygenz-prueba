@@ -1,5 +1,5 @@
 <template>
-    <b-container>
+    <b-container id="container">
         <h3>Rss Movies Feed:</h3>
         <b-row class="mt-5 mb-5">
             <b-col>
@@ -20,7 +20,7 @@
                     <b-col><b-img :src="item.Poster" width="80" alt="placeholder"></b-img></b-col>
                     <b-col cols="10">
                         <h5 class="mt-0 mb-1">{{ item.Title }} <b>({{item.Year}})</b> <i> Score: ({{item.Metascore}})</i></h5>
-                        <p class="mb-0">
+                        <p id="description" class="mb-0">
                             {{ item.Plot }}
                         </p>
                         <b-button variant="outline-primary" class="mt-2" v-b-modal.moreData @click="updateInfoData(item)">Mas info</b-button>
@@ -124,7 +124,7 @@
 </script>
 
 <style>
-    p {
+    #description {
         overflow: hidden;
         text-overflow: ellipsis;
         display: -webkit-box;
@@ -134,7 +134,7 @@
         max-height: X*2;
     }
 
-    .container {
+    #container {
         max-width: 720px;
     }
 </style>
