@@ -1,1 +1,109 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T11:21:53.188Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" version="15.2.7" etag="rRRZ4O1BWrlTVHLIZ5v6" type="github"><diagram id="Ig-rVfvDcQCPQFx4iKLK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-11T12:32:42.863Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="H94B_9E-7AFxyDYIqG2t" version="15.2.7" type="github">
+  <diagram id="Ig-rVfvDcQCPQFx4iKLK" name="Page-1">
+    <mxGraphModel dx="1422" dy="1923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xImOFJHZIipjMlT4vikr-37" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xImOFJHZIipjMlT4vikr-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="-50" width="460" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="xImOFJHZIipjMlT4vikr-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-50" width="380" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="xImOFJHZIipjMlT4vikr-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="15" width="200" height="445" as="geometry" />
+        </mxCell>
+        <mxCell id="xImOFJHZIipjMlT4vikr-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="45" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xImOFJHZIipjMlT4vikr-2" value="Client Dispatcher" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="50" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xImOFJHZIipjMlT4vikr-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xImOFJHZIipjMlT4vikr-4" target="xImOFJHZIipjMlT4vikr-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xImOFJHZIipjMlT4vikr-4" value="DDi 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="115" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xImOFJHZIipjMlT4vikr-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xImOFJHZIipjMlT4vikr-5" target="xImOFJHZIipjMlT4vikr-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xImOFJHZIipjMlT4vikr-5" value="DDi 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="155" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xImOFJHZIipjMlT4vikr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xImOFJHZIipjMlT4vikr-6" target="xImOFJHZIipjMlT4vikr-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xImOFJHZIipjMlT4vikr-6" value="DDi 3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="195" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xImOFJHZIipjMlT4vikr-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xImOFJHZIipjMlT4vikr-7" target="xImOFJHZIipjMlT4vikr-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xImOFJHZIipjMlT4vikr-7" value="DDi 4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="235" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xImOFJHZIipjMlT4vikr-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.059;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xImOFJHZIipjMlT4vikr-8" target="xImOFJHZIipjMlT4vikr-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xImOFJHZIipjMlT4vikr-8" value="..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="275" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xImOFJHZIipjMlT4vikr-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xImOFJHZIipjMlT4vikr-10" target="xImOFJHZIipjMlT4vikr-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xImOFJHZIipjMlT4vikr-10" value="Inconcert PBX" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="90" width="170" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="xImOFJHZIipjMlT4vikr-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xImOFJHZIipjMlT4vikr-11" target="xImOFJHZIipjMlT4vikr-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xImOFJHZIipjMlT4vikr-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xImOFJHZIipjMlT4vikr-11" target="xImOFJHZIipjMlT4vikr-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xImOFJHZIipjMlT4vikr-11" value="Campaña IVR" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="147.5" width="120" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="xImOFJHZIipjMlT4vikr-12" value="Campaña Abonados" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="85" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xImOFJHZIipjMlT4vikr-13" value="Campaña Opens" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xImOFJHZIipjMlT4vikr-24" value="Potencialmente susceptible a una escalabilidad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="37.5" y="305" width="145" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xImOFJHZIipjMlT4vikr-25" value="DDI: 4000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="185" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xImOFJHZIipjMlT4vikr-26" value="DDI: 4001" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="170" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xImOFJHZIipjMlT4vikr-27" value="DDI: 4002" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="230" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xImOFJHZIipjMlT4vikr-30" value="Asignación de DNI virutal.&lt;br&gt;Acumulación de Ddi de origen en una variable" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="210" width="110" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="xImOFJHZIipjMlT4vikr-31" value="Las campañas tendrán prioridad por ACD, por lo que los abonados entraran al CC antes que los no abonados, pero si hay agentes disponibles entraran los no abonados a un agente tambien, evitando de esta manera perder TMO y tener agentes inactivos.&lt;br&gt;&lt;br&gt;Al ser un componente abstracto, no importa que el cliente tenga dos oficinas o que tenga 100, en el contact center solo habra 2 campañas por cliente, diferenciadas en el formulario por el id de la oficina que se acumula en una variable en el IVR. El desvio se hara utilizando la variable para enviarlo a un destinataio u otro" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="337" width="330" height="213" as="geometry" />
+        </mxCell>
+        <mxCell id="xImOFJHZIipjMlT4vikr-33" value="&lt;h1&gt;Componente Dinámico&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-45" width="440" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="xImOFJHZIipjMlT4vikr-34" value="&lt;h1&gt;Componente Abstracto&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="605" y="-45" width="365" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="xImOFJHZIipjMlT4vikr-35" value="Si aumenta el numero de oficinas del cliente, solo se debe añadir el ddi de esa oficina a la PBX" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="350" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="xImOFJHZIipjMlT4vikr-36" value="Var ddiOrigen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="215" width="100" height="25" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
